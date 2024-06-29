@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "My name"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Theorist exploring the intersection of quantum information, quantum computing, and fundamental open questions in physics."
+  location         : "Berkeley"
+  employer         : "UC Berkeley"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : # "thilo@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
