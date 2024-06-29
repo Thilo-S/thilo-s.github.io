@@ -269,6 +269,18 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  #added by me: _reviews
+  # _reviews
+  - scope:
+      path: ""
+      type: reviews
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 
 # Sass/SCSS
