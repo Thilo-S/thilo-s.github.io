@@ -7,29 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a graduate student at UC Berkeley and at Lawrence Berkeley National Laboratory. Previous to that I did a BSc in Physics at the University of Bonn and the Master's in Mathematical and Theoretical Physics at the University of Oxford.
+
 Research interest
 ======
-My research interest are...
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-..<br>
-...<br>
-....<br>
-.....<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-.<br>
-test
-.
-.
-.
-
+I am currently working on Quantum Information and Quantum Computing and am thinking a lot about fundamental open questions in physics from this perspective.
