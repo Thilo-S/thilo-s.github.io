@@ -2,6 +2,9 @@
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/thilo-s/thilo-s.github.io)
+
+
 Academic Pages is a Github Pages template for academic websites.
 
 # Getting Started
